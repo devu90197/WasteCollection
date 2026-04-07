@@ -1,0 +1,89 @@
+Online Library Management System
+Modules
+Admin Management
+Book Search
+Issue/Return Books
+Fine Calculation
+Member Management
+DB Concepts
+ER Modeling
+Triggers (Fine calculation)
+Constraints
+Indexing
+Reports using Views
+Online Library Management System
+1.Project Objective 
+To digitally manage library operations  such as:
+Book management
+Student registration
+Book issue & return
+Fine calculation
+Record maintenance
+2.Project Architecture
+3.Frontend: Used for interaction.
+Examples:
+Login Page
+Book Search Page
+Issue Book Page
+Technologies:
+HTML
+CSS
+JavaScript
+Bootstrap
+4.Backend:
+Responsibilities:
+Receives user request
+Processes logic
+Communicates with database
+Technologies:
+Python (Flask/Django)
+OR
+Java (Spring Boot)
+OR
+Node.js
+5.Database
+MySQL / PostgreSQL / MongoDB
+6.System Modules
+Admin Module
+Add books
+Delete books
+View issued books
+Manage students
+ Student Module
+Register/Login
+Search books
+Issue book
+Return book
+View fine
+7.Database Concepts Used
+Entities, Tables Design, Constraints, CRUD Operations
+Tables & Relationships
+Joins
+Views
+Stored Procedures
+Transactions
+8.Testing Cases
+Students must test
+Same book issued twice
+Invalid login
+Book unavailable
+Late return
+Each team must submit:
+1.Working Application
+2.Database connected system
+3.Project Report
+4.Demonstration during evaluation
+MINI PROJECT  REPOR T 
+1.Title
+2.Index
+3.Introduction
+4.Objectives of the Project
+5.System Overview
+6.Technologies Used
+7.System Architecture
+8.Database Description
+9.Implementation / Module Description
+10.Output Screenshots
+11.Testing and Results
+12.Conclusion
+13.References
